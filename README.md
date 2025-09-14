@@ -1,4 +1,4 @@
-# Credit Card Expense Tracker
+# Kachingko
 
 A comprehensive personal finance tool for tracking credit card spending, analyzing expenses, and managing budgets with intelligent categorization and insights.
 
