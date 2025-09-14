@@ -17,11 +17,11 @@ This application helps you:
 
 Currently supported Philippine banks:
 
-[x] RCBC (Rizal Commercial Banking Corporation)
-[x] EastWest Bank
-[ ] BPI
-[ ] BDO
-[ ] Metrobank
+- [x] RCBC (Rizal Commercial Banking Corporation)
+- [x] EastWest Bank
+- [ ] BPI
+- [ ] BDO
+- [ ] Metrobank
 
 *Want support for your bank? Open an issue with a sample statement (remove sensitive data) and we'll add it!*
 
