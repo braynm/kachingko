@@ -2,7 +2,7 @@ import { createServerFn } from '@tanstack/react-start'
 import { redirect } from '@tanstack/react-router'
 import { z } from 'zod'
 import { API_URL, makeApiClient } from '../utils/api'
-import { createSession, useAppSession } from '../session'
+import { useAppSession } from '../session'
 
 // TODO: make a shared z object server/client validator
 export const authSchema = z.object({

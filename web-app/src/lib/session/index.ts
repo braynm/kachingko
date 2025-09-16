@@ -1,6 +1,5 @@
 import { createServerFn } from '@tanstack/react-start'
 import { useSession } from "@tanstack/react-start/server";
-import { authSchema } from '../auth';
 
 // TODO USE 
 const PASSWORD = process.env.SESSION_PASSWORD
